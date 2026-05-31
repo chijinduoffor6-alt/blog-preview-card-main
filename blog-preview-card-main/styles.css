@@ -1,0 +1,41 @@
+body {
+    background-color: yellow;
+
+}
+.card {
+    background-color: white;
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: 9px solid black;
+}
+
+button {
+    display: block;
+    margin: 10px;
+    background-color: yellow;
+    padding-left: 10px;
+    font-weight: 900;
+}
+.p2 {
+    margin: 10px;
+}
+.image{
+    width: 300px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 20px;
+    
+}
+.p1 {
+    color: black;
+    font-size: larger;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
